@@ -1,5 +1,5 @@
 import os  
-import requests  #
+import requests  
 from dotenv import load_dotenv 
 from aiogram import Bot, Dispatcher  
 from aiogram.filters import Command  
